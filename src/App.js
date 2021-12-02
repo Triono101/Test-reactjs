@@ -12,7 +12,8 @@ function App() {
         <a
 
         Tulisan ini test pengenalan aplikasi
-        
+        Ok tambah deploy lagi
+
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
