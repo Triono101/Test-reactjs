@@ -10,6 +10,9 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
+
+        Tulisan ini test pengenalan aplikasi
+        
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
