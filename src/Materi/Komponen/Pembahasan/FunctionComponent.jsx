@@ -40,4 +40,4 @@ FunctionalComponent.defaultProps = {
     nama: "Users,"
 }
 
-export default FunctionalComponent; 
+export default FunctionalComponent;

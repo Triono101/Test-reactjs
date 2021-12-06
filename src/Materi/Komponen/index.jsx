@@ -8,7 +8,7 @@ export default class Komponen extends React.Component {
         return(
             <div>
                 <ClassComponent nama="Triono"/>
-                <FunctionalComponent />
+                <FunctionalComponent/>
             </div>
         )
     }

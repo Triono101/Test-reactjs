@@ -20,7 +20,7 @@ class ClassComponent extends React.Component {
         value: 0
     }
 
-// 3. Pengganti binding
+// Pengganti binding
     // handlePlus = () => {}
     // handleMinus = () => {}
 
