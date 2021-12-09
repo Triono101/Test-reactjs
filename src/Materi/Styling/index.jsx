@@ -1,5 +1,5 @@
 import React from "react";
-import Bootstrap from "./Bootstrap";
+// import Bootstrap from "./Bootstrap";
 // import Inline from "./Inline/Index";
 // import Module from "./Module";
 // import Styled from "./Styled";
@@ -17,7 +17,7 @@ export default class Styling extends React.Component {
                 {/* <Module /> */}
                 {/* <Styled /> */}
 
-                <Bootstrap />
+                {/* <Bootstrap /> */}
             </div>
         )
     }

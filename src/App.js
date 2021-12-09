@@ -1,11 +1,15 @@
 // import Komponen from "./Materi/Komponen";
-import Styling from "./Materi/Styling";
+// import Styling from "./Materi/Styling";
+
+import Reusable from "./Materi/Reusable";
 
 function App() {
   return (
     <div className="App">
       {/* <Komponen /> */}
-      <Styling />
+      {/* <Styling /> */}
+
+      <Reusable />
     </div>
   );
 }
