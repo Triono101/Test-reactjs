@@ -1,11 +1,9 @@
 // import Komponen from "./Materi/Komponen";
 // import Styling from "./Materi/Styling";
-
-import Form from "./Materi/Form";
-
 // import Rendering from "./Materi/Rendering";
-
 // import Reusable from "./Materi/Reusable";
+
+import Form from "./Materi/Form & Validation";
 
 function App() {
   return (
