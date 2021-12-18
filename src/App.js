@@ -1,22 +1,25 @@
-// import Komponen from "./Materi/Komponen";
-// import Styling from "./Materi/Styling";
-// import Rendering from "./Materi/Rendering";
-// import Reusable from "./Materi/Reusable";
-// import Form from "./Materi/Form & Validation";
-import Lifecycle from "./Materi/Lifecycle";
+// import Komponen from "./Materi/1. Komponen";
+// import Styling from "./Materi/2. Styling";
+// import Rendering from "./Materi/3. Reusable";
+// import Reusable from "./Materi/4. Rendering";
+// import Form from "./Materi/5. Form & Validation";
+// import Lifecycle from "./Materi/6. Lifecycle";
+
+import Hooks from "./Materi/7. Hooks";
 
 function App() {
   return (
     <div className="App">
-      {/* <Komponen /> */}
-      {/* <Styling /> */}
+      {/* Materi React - Class Component */}
+        {/* <Komponen /> */}
+        {/* <Styling /> */}
+        {/* <Reusable /> */}
+        {/* <Rendering /> */}
+        {/* <Form /> */}
+        {/* <Lifecycle /> */}
 
-      {/* <Reusable /> */}
-      {/* <Rendering /> */}
-
-      {/* <Form /> */}
-
-      <Lifecycle />
+      {/* Materi Hook - Functional Component */}
+        <Hooks />
 
     </div>
   );
