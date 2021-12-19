@@ -36,4 +36,4 @@ const Effect = () => {
     )
 }
 
-export default Effect;
+export default Effect; 
