@@ -5,23 +5,32 @@
 // import Form from "./Materi/5. Form & Validation";
 // import Lifecycle from "./Materi/6. Lifecycle";
 
-import Hooks from "./Materi/7. Hooks";
+import Routing from "./Materi/8. Routing v5.1";
+
+// import Hooks from "./Materi/7. Hooks";
 
 function App() {
   return (
-    <div className="App">
-      {/* Materi React - Class Component */}
-        {/* <Komponen /> */}
-        {/* <Styling /> */}
-        {/* <Reusable /> */}
-        {/* <Rendering /> */}
-        {/* <Form /> */}
-        {/* <Lifecycle /> */}
+    // <div className="App">
+    //   {/* Materi React - Class Component */}
+    //     {/* <Komponen /> */}
+    //     {/* <Styling /> */}
+    //     {/* <Reusable /> */}
+    //     {/* <Rendering /> */}
+    //     {/* <Form /> */}
+    //     {/* <Lifecycle /> */}
 
-      {/* Materi Hook - Functional Component */}
-        <Hooks />
+    //   {/* Materi Hook - Functional Component */}
+    //     <Hooks />
 
-    </div>
+    // </div>
+
+      <div className="App">
+        <header className="App-header">
+            <Routing />
+        </header>
+      </div>
+
   );
 }
 
