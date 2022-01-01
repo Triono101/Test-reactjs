@@ -4,10 +4,10 @@
 // import Reusable from "./Materi/4. Rendering";
 // import Form from "./Materi/5. Form & Validation";
 // import Lifecycle from "./Materi/6. Lifecycle";
-
-import Routing from "./Materi/8. Routing v5.1";
-
 // import Hooks from "./Materi/7. Hooks";
+
+// import Routing from "./Materi/8. Routing v5.1";
+import Routing2 from "./Materi/8.1 Routing v6.0";
 
 function App() {
   return (
@@ -27,7 +27,9 @@ function App() {
 
       <div className="App">
         <header className="App-header">
-            <Routing />
+            {/* <Routing /> */}
+            <Routing2 />
+
         </header>
       </div>
 
