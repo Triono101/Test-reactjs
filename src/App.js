@@ -7,7 +7,9 @@
 // import Hooks from "./Materi/7. Hooks";
 
 // import Routing from "./Materi/8. Routing v5.1";
-import Routing2 from "./Materi/8.1 Routing v6.0";
+// import Routing2 from "./Materi/8.1 Routing v6.0";
+
+import Redux from "./Materi/9. Redux";
 
 function App() {
   return (
@@ -25,14 +27,17 @@ function App() {
 
     // </div>
 
+      // <div className="App">
+      //   <header className="App-header">
+      //       {/* <Routing /> */}
+      //       <Routing2 />
+
+      //   </header>
+      // </div>
+
       <div className="App">
-        <header className="App-header">
-            {/* <Routing /> */}
-            <Routing2 />
-
-        </header>
+        <Redux />
       </div>
-
   );
 }
 
