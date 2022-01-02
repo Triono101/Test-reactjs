@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pertama {
+    font-size: 25px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.btn112 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+    border: none;
+    padding: 15px 7px;
+    margin: 15px;
+    text-align: center;
+    color: white;
+    background: #a82400;
+    border-radius: 100px;
+}
